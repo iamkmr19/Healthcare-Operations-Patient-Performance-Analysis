@@ -198,8 +198,11 @@ Aspiring Data Analyst
 
 ### Connect with me
 
-- LinkedIn: https://linkedin.com/in/kmrishav19
-- GitHub: https://github.com/iamkmr19
+📧 Email: iamkmr1999@gmail.com
+
+🔗 GitHub: https://github.com/iamkmr19
+
+💼 LinkedIn : https://www.linkedin.com/in/kmrishav19/
 
 ---
 
