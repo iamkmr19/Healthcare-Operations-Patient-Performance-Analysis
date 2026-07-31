@@ -14,6 +14,7 @@ An interactive Healthcare Analytics Dashboard built entirely in Microsoft Excel 
 - [💡 Skills Demonstrated](#-skills-demonstrated)
 - [📸 Dashboard Preview](#-dashboard-preview)
 - [🚀 Business Value](#-business-value)
+- [🔮 Future Scope](#-future-scope)
 - [📁 Repository Structure](#-repository-structure)
 - [👨‍💻 Author](#-author)
 
