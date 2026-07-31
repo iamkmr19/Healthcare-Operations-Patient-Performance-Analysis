@@ -178,6 +178,15 @@ This dashboard helps healthcare administrators:
 - Make data-driven decisions
 
 ---
+## 🔮 Future Scope
+
+This project can be further enhanced by implementing the following features:
+
+- Integrate real-time patient and hospital management data using SQL databases.
+- Develop predictive models to forecast patient admissions and hospital occupancy.
+- Implement machine learning algorithms to predict patient readmission risk.
+- Create automated email reports and scheduled dashboard refreshes.
+- Incorporate patient appointment scheduling and bed occupancy analytics.
 
 ## 📁 Repository Structure
 
