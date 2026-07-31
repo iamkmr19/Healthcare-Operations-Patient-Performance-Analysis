@@ -3,6 +3,19 @@
 An interactive Healthcare Analytics Dashboard built entirely in Microsoft Excel to analyze hospital operational performance, patient outcomes, doctor efficiency, and financial metrics.
 
 ---
+## 📑 Table of Contents
+- [📌 Project Overview](#-project-overview)
+- [🎯 Objectives](#-objectives)
+- [📊 Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
+- [📈 Dashboard Highlights](#-dashboard-highlights)
+- [🔍 Insights Generated](#-insights-generated)
+- [🛠 Tools Used](#-tools-used)
+- [📂 Dataset](#-dataset)
+- [💡 Skills Demonstrated](#-skills-demonstrated)
+- [📸 Dashboard Preview](#-dashboard-preview)
+- [🚀 Business Value](#-business-value)
+- [📁 Repository Structure](#-repository-structure)
+- [👨‍💻 Author](#-author)
 
 ## 📌 Project Overview
 
